@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toadelaja
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Peyton programming and Cybersecurity track on Cisco skillforall website..
-- 💞️ I’m looking to collaborate on learning programming in Peyton program..
+- 🌱 I’m currently learning Python programming and Cybersecurity track on Cisco skillforall website..
+- 💞️ I’m looking to collaborate on learning programming in Python program..
 - 📫 How to reach me taiwo.adelaja@gmail.com...
 
 <!---
